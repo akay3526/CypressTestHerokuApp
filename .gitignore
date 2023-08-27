@@ -1,0 +1,9 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
